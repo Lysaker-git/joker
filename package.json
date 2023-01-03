@@ -1,0 +1,24 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lysaker-git/joker.git"
+  },
+  "keywords": [
+    "project",
+    "test",
+    "school"
+  ],
+  "author": "Lysaker WCS <lysakerwcs@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lysaker-git/joker/issues"
+  },
+  "homepage": "https://github.com/Lysaker-git/joker#readme"
+}
