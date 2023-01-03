@@ -1,0 +1,32 @@
+{
+  "name": "lysaker-wcs-joker",
+  "version": "0.1.0",
+  "description": "Application that tells jokes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lysaker-git/joker.git"
+  },
+  "keywords": [
+    "project",
+    "test",
+    "school"
+  ],
+  "author": "Lysaker WCS <lysakerwcs@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lysaker-git/joker/issues"
+  },
+  "homepage": "https://github.com/Lysaker-git/joker#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
